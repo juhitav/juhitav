@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juhitav
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Machine Learning, Deep Learning
 - 📫 How to reach me juhita.nagapriya@gmail.com
 
 Languages and Tools:
