@@ -3,7 +3,7 @@
 - 📫 How to reach me juhita.nagapriya@gmail.com
 
 Languages and Tools:
-C, C++, Java, Python, Data Structures and Algorithms, Streamlit, HTML, CSS, SQL
+C, C++, Java, Python, Data Structures, Algorithms, Streamlit, HTML, CSS, JavaScript, PHP, MySQL
 
 <!---
 juhitav/juhitav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
